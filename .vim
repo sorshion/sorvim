@@ -1,8 +1,8 @@
 "====================================
 "    FileName: .vimrc
-"    Author:   DejaSuen
+"    Author:   sorshion 
 "    Version:  1.0.0
-"    Date: 2016-02-02
+"    Date: 2017-10-15
 "====================================
 
 
